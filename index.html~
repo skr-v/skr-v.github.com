@@ -24,8 +24,8 @@
 					<!-- Logo -->
 						<div id="logo">
 							<span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
-							<h1 id="title">Navigation Menu</h1>
-							<p>Each section contains helpful information and recommendations from experts.</p>
+							<h1 id="title">Open Info</h1><p></p>
+							<p>Options </p>
 						</div>
 
 					<!-- Nav -->
