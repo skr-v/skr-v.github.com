@@ -58,8 +58,8 @@
                         <a class="logo" href="#">
                             <img src="images/logo.png" alt="">
                         </a>
-                        <h2>Being Productive.</br>Manage Your Life Day to Day</h2>
-                        <p>Let you track everything in your life with a simple way</p>
+                        <h2>Find those new things that excite, a new perspective, find Fresc.io.</br>Life Day to Day is enhanced by learning new information</h2>
+                        <p>Let you track everything in your life with a simple way, and share your ideas, life hacks, and Fresc new info with your friends.</p>
                         <div class="download-btn">
                             <a href="#" class="andriod">
                                 <img src="images/andriod-button.png" alt="">
@@ -160,21 +160,21 @@
                         <div class="media wow fadeInDown" data-wow-delay=".5s">
                             <img class="media-object pull-left" src="images/item-1.png" alt="Image">
                             <div class="media-body">
-                                <h4 class="media-heading">Documentation</h4>
-                                <p>Start from now, you can easily manage your time and it has reminder to let you know every time.</p>
+                                <h4 class="media-heading">Fresc.ME</h4>
+                                <p>Easily manage your daily news stream and important events and todo lists</p>
                             </div>
                         </div>
                         <div class="media wow fadeInDown" data-wow-delay=".8s">
                                 <img class="media-object pull-left" src="images/item-2.png" alt="Image">
                             <div class="media-body">
-                                <h4 class="media-heading">Compete Friends</h4>
+                                <h4 class="media-heading">Follow Friends</h4>
                                 <p>Start from now, you can easily manage your time and it has reminder to let you know every time.</p>
                             </div>
                         </div>
                         <div class="media wow fadeInDown" data-wow-delay="1.1s">
                                 <img class="media-object pull-left" src="images/item-3.png" alt="Image">
                             <div class="media-body">
-                                <h4 class="media-heading">Chat & Message</h4>
+                                <h4 class="media-heading">Chat & Message Apps</h4>
                                 <p>Start from now, you can easily manage your time and it has reminder to let you know every time.</p>
                             </div>
                         </div>
