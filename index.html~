@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title> LifeTracker a template by Themefisher </title>
-        <meta name="description" content="">
+        <title> Fresc.io - the Fresh and Free Apps </title>
+        <meta name="description" content="cloud apps">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -221,20 +221,20 @@
                         <div id="owl-example" class="owl-carousel">
                             <div> 
                                 <h5>
-                                    “All I can say is i love this app so much. it helps me to keep manage my time. Being productive” <span>Phil Collins / World Surfer</span>
+                                    “All I can say is i love this app so much. it helps me to keep manage my time. Being productive” <span>Guy Holder / World Surfer</span>
 
                                 </h5>
 
                             </div>
                             <div>
                                 <h5>
-                                    “All I can say is i love this app so much. it helps me to keep manage my time. Being productive”  <span>Phil Collins / World Surfer</span>
+                                    “All I can say is i love this app so much. it helps me to keep manage my time. Being productive”  <span>Guy Holder / World Surfer</span>
 
                                 </h5>
                             </div>
                             <div> 
                                 <h5>
-                                    “All I can say is i love this app so much. it helps me to keep manage my time. Being productive”  <span>Phil Collins / World Surfer</span>
+                                    “All I can say is i love this app so much. it helps me to keep manage my time. Being productive”  <span>Guy Holder / World Surfer</span>
 
                                 </h5>
                             </div>
@@ -252,7 +252,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="title wow pulse" data-wow-delay=".5s">
-                        <h2>Our Happy Teams</h2>
+                        <h2>Our Happy Team</h2>
                         <p>
                             Here is the people behind this great app
                         </p>
@@ -264,7 +264,7 @@
                     <div class="media wow fadeInUp" data-wow-delay=".7s">
                         <img class="media-object pull-left" src="images/team-1.png" alt="Image">
                         <div class="media-body">
-                            <h4 class="media-heading">Matthew Graham</h4>
+                            <h4 class="media-heading">Fred Adams</h4>
                             <p>Co-Founder / CEO</p>
                             <p class="social-link">
                                 <a class="btn-facebook" href=""><i class="fa fa-facebook"></i></a>
@@ -277,7 +277,7 @@
                     <div class="media wow fadeInUp" data-wow-delay="1.1s">
                         <img class="media-object pull-left" src="images/team-2.png" alt="Image">
                         <div class="media-body">
-                            <h4 class="media-heading">Jonathon Gramble</h4>
+                            <h4 class="media-heading">Guy 1</h4>
                             <p>Co-Founder / CEO</p>
                             <p class="social-link">
                                 <a class="btn-facebook" href=""><i class="fa fa-facebook"></i></a>
@@ -290,7 +290,7 @@
                     <div class="media wow fadeInUp" data-wow-delay="1.4s">
                         <img class="media-object pull-left" src="images/team-3.png" alt="Image">
                         <div class="media-body">
-                            <h4 class="media-heading">Jonathon Gramble</h4>
+                            <h4 class="media-heading">Person 1</h4>
                             <p>Co-Founder / CEO</p>
                             <p class="social-link">
                                 <a class="btn-facebook" href=""><i class="fa fa-facebook"></i></a>
