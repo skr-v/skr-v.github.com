@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title> Fresc.io - the Fresh and Free Apps </title>
+        <title> Fresc.io - Feel Free, Use Fresc.io</title>
         <meta name="description" content="cloud apps">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -58,7 +58,7 @@
                         <a class="logo" href="#">
                             <img src="images/logo.png" alt="">
                         </a>
-                        <h2>Find those new things that excite, a new perspective, find Fresc.io.</br>Life Day to Day is enhanced by learning new information</h2>
+                        <h2>Free-flowing Fresh Facts, Fresc.io App Finder</br>Life Day to Day is enhanced by learning new information</h2>
                         <p>Let you track everything in your life with a simple way, and share your ideas, life hacks, and Fresc new info with your friends.</p>
                         <div class="download-btn">
                             <a href="#" class="andriod">
