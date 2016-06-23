@@ -96,9 +96,9 @@
                 <div class="col-md-4 col-sm-4">
                     <div class="block wow fadeInLeft" data-wow-delay=".7s">
                         <img src="images/calender.png" alt="">
-                        <h3>Daily Based</h3>
+                        <h3>Fresc.ME</h3>
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been typesetting industry 
+                            Daily industry news, whatever you choose.  Fresc.ME keeps you informed from a single page.
                         </p>
                     </div>
                 </div>
@@ -160,7 +160,7 @@
                         <div class="media wow fadeInDown" data-wow-delay=".5s">
                             <img class="media-object pull-left" src="images/item-1.png" alt="Image">
                             <div class="media-body">
-                                <h4 class="media-heading">Fresc.ME</h4>
+                                <h4 class="media-heading"><a class="text-warning" href="test.com">Fresc.ME</a></h4>
                                 <p>Easily manage your daily news stream, important events and todo lists</p>
                             </div>
                         </div>
@@ -195,7 +195,7 @@
                                 <img class="media-object pull-left" src="images/item-5.png" alt="Image">
                             <div class="media-body">
                                 <h4 class="media-heading">Fresc.club</h4>
-                                <p>A Fresc community feel.</p>
+                                <p>A community of all fresh topics</p>
                             </div>
                         </div>
                         <div class="media wow fadeInDown" data-wow-delay="1.9s">
