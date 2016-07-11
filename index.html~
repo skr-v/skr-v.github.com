@@ -100,14 +100,14 @@
                                 <img class="media-object pull-left" src="images/item-2.png" alt="Image">
                             <div class="media-body">
                                 <h4 class="media-heading"><a class="text-warning" href="http://fresc.club">Fresc.Club Forum of Frescness</a></h4>
-                                <p>Connect and share helpful info with your friends, follow.</p>
+                                <p>Connect and share helpful info with your friends, follow friends making fresh moves.</p>
                             </div>
                         </div>
                         <div class="media wow fadeInDown" data-wow-delay="1.1s">
                                 <img class="media-object pull-left" src="images/item-3.png" alt="Image">
                             <div class="media-body">
-                                <h4 class="media-heading"><a class="text-warning" href="http://fresc.io">Chat & Message Apps </a></h4>
-                                <p>Start from now, you can easily manage your time and it has reminder to let you know every time.</p>
+                                <h4 class="media-heading"><a class="text-warning" href="http://fresc.io">Collaboration Apps</a></h4>
+                                <p>Start a Cloud Collab Space instantly and share it with your team with simple flexibility.</p>
                             </div>
                         </div>
                     </div>
