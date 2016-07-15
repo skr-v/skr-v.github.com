@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title> Fresc.io - Feel Free, Use Fresc.io</title>
+        <title> Fresc.io - Freshly Seeded Cloud Apps</title>
         <meta name="description" content="cloud apps">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -58,8 +58,8 @@
                         <a class="logo" href="#">
                             <img src="images/logo.png" alt="">
                         </a>
-                        <h2>Free-flowing Fresh Facts, Fresc.io finds the future for you.</br></br>We scan the internet to gather and the latest software to enhance your life</h2>
-                        <p>Let you track everything in your life with a simple way, and share your ideas, life hacks, and fresh new info with your friends.</p>
+                        <h2>Free-flowing Fresh Facts, Fresc.io finds the future for you.</br></br>We scan the internet to gather and evaluate the latest software to keep your knowledge feed increasing.</h2>
+                        <p>Let you track everything in your life with a simple way, learning from your areas of interest to provide more relevant news. Share your ideas, life hacks, and fresh new info with your friends.</p>
                         <div class="download-btn">
                             <a href="#" class="andriod">
                                 <img src="images/andriod-button.png" alt="">
@@ -81,8 +81,7 @@
                     <div class="title wow pulse" data-wow-delay=".5s">
                         <h2>Connect to Fresc.io Cloud Services by selecting below.</h2>
                         <p>
-                            All of our Web-Apps and Cloud Services have been built in-house and are created on-demand almost instantly, for peace of mind with security and safety.
-                        </p>
+                            All of our Web-Apps and Cloud Services have been built in-house and are created on-demand near-instantly, for better peace of mind with security and safety.</p>
                     </div>
                 </div>
             </div>
@@ -107,7 +106,7 @@
                                 <img class="media-object pull-left" src="images/item-3.png" alt="Image">
                             <div class="media-body">
                                 <h4 class="media-heading"><a class="text-warning" href="http://fresc.io">Collaboration Apps</a></h4>
-                                <p>Start a Cloud Collab Space instantly and share it with your team simply.</p>
+                                <p>Start a Cloud Collab Space instantly and share it with your team simply by email invitation.</p>
                             </div>
                         </div>
                     </div>
@@ -127,7 +126,7 @@
                                 <img class="media-object pull-left" src="images/item-5.png" alt="Image">
                             <div class="media-body">
                                 <h4 class="media-heading"><a class="text-warning" href="http://fresc.club">Fresc.club</a></h4>
-                                <p>An online forum where members can share simple and effective techniques to live healthy, fresh and free lives.</p>
+                                <p>An online forum where members can share simple and effective techniques to live healthy, fresh and free lives. NOTE: </p>
                             </div>
                         </div>
                         <div class="media wow fadeInDown" data-wow-delay="1.9s">
