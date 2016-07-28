@@ -58,7 +58,7 @@
                         <a class="logo" href="#">
                             <img src="images/logo.png" alt="">
                         </a>
-                        <h2>Free-flowing Fresh Facts, Fresc.io finds the future for you.</br></br>We continually search the internet to find the most simple and effective solutions to daily challenges, our instant cloud apps catalog keep and collaborating at light-speed.
+                        <h2>Free-flowing Fresh Facts, Fresc.io finds the future for you.</br></br>We continually search the internet to find the most simple and effective solutions to daily challenges, also our selection of instant cloud apps keep you collaborating and learning at light-speed.
                          <div class="download-btn">
                             <a href="#" class="andriod">
                                 <img src="images/andriod-button.png" alt="">
@@ -78,9 +78,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="title wow pulse" data-wow-delay=".5s">
-                        <h2>Connect to Fresc.io Cloud Services by selecting below.</h2>
-                        <p>
-                            All of our Web-Apps and Cloud Services have been built in-house and are created on-demand near-instantly, for more peace of mind with security and safety.</p>
+                        <h2>Select a Fresc.io Cloud App to begin.</h2>
+                        <p>All of our Web-Apps are created on-demand near-instantly with the latest Open for more peace of mind with security and safety.</p>
                     </div>
                 </div>
             </div>
